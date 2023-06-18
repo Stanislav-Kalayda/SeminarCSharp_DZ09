@@ -1,0 +1,15 @@
+C:\Users\Titan Player\OneDrive\Рабочий стол\DZ09\DZ09\bin\Debug\net6.0\DZ09.exe
+C:\Users\Titan Player\OneDrive\Рабочий стол\DZ09\DZ09\bin\Debug\net6.0\DZ09.deps.json
+C:\Users\Titan Player\OneDrive\Рабочий стол\DZ09\DZ09\bin\Debug\net6.0\DZ09.runtimeconfig.json
+C:\Users\Titan Player\OneDrive\Рабочий стол\DZ09\DZ09\bin\Debug\net6.0\DZ09.dll
+C:\Users\Titan Player\OneDrive\Рабочий стол\DZ09\DZ09\bin\Debug\net6.0\DZ09.pdb
+C:\Users\Titan Player\OneDrive\Рабочий стол\DZ09\DZ09\obj\Debug\net6.0\DZ09.csproj.AssemblyReference.cache
+C:\Users\Titan Player\OneDrive\Рабочий стол\DZ09\DZ09\obj\Debug\net6.0\DZ09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Titan Player\OneDrive\Рабочий стол\DZ09\DZ09\obj\Debug\net6.0\DZ09.AssemblyInfoInputs.cache
+C:\Users\Titan Player\OneDrive\Рабочий стол\DZ09\DZ09\obj\Debug\net6.0\DZ09.AssemblyInfo.cs
+C:\Users\Titan Player\OneDrive\Рабочий стол\DZ09\DZ09\obj\Debug\net6.0\DZ09.csproj.CoreCompileInputs.cache
+C:\Users\Titan Player\OneDrive\Рабочий стол\DZ09\DZ09\obj\Debug\net6.0\DZ09.dll
+C:\Users\Titan Player\OneDrive\Рабочий стол\DZ09\DZ09\obj\Debug\net6.0\refint\DZ09.dll
+C:\Users\Titan Player\OneDrive\Рабочий стол\DZ09\DZ09\obj\Debug\net6.0\DZ09.pdb
+C:\Users\Titan Player\OneDrive\Рабочий стол\DZ09\DZ09\obj\Debug\net6.0\DZ09.genruntimeconfig.cache
+C:\Users\Titan Player\OneDrive\Рабочий стол\DZ09\DZ09\obj\Debug\net6.0\ref\DZ09.dll
